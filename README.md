@@ -1,6 +1,7 @@
 ## Welcome!
 
 [About Me](https://joshkennede.github.io/about/about.html)
+[Personal Blog](https://joshkennede.com)
 
 ### Jekyll Themes
 
